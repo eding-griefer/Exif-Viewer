@@ -204,4 +204,4 @@ This repository serves as the official landing page for EXIF Viewer. The softwar
 **Get the most recent version of EXIF Viewer today!**
 
 ---
-**Last updated:** 2026-11-08 21:56:00 UTC
+**Last updated:** 2026-11-09 01:36:54 UTC
